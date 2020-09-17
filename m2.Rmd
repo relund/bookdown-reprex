@@ -1,4 +1,4 @@
-# M2 
+# Foo
 
 ## Learning outcomes
 
